@@ -1,7 +1,7 @@
 # CWAM_IC
 Official Pytorch Implementation for "Enhancing Learned Image Compression via Cross Window-based Attention", ISVC, 2024
 
-![IC_Architecture_1]()
+![IC_Architecture_1](https://github.com/prmudgal/CWAM_IC_ISVC/blob/main/figures/CWAM_IC_Architecture.PNG)
 **Figure:** *Our framework*
 
 ## Acknowledgement
@@ -15,7 +15,7 @@ In this paper, we introduce a feature encoding and decoding module that improves
 
 [[Paper](https://arxiv.org/abs/2410.21144)] 
 
-![our_results]()
+![our_results](https://github.com/prmudgal/CWAM_IC_ISVC/blob/main/figures/Our_results.PNG)
 **Figure:** *Our results*
 
 ## Installation
