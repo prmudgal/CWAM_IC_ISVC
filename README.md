@@ -43,13 +43,14 @@ Pretrained models (optimized for MSE) trained from scratch using randomly chose 
 | MSE | 0.0483  | [mse_0483](https://drive.google.com/file/d/1vr02qsJqavF5dt3s5zM3nQQOI7kz9AAi/view?usp=drive_link)     |
 | MSE | 0.09 | [mse_09](https://drive.google.com/file/d/1s5P4qa0452Dn0tcQN-gfJq97CeOuJzqy/view?usp=drive_link) |
 | MSE | 0.14 | [mse_14](https://drive.google.com/file/d/1IF-16-2LMP6AP0_195hn31kFbkRENKr-/view?usp=drive_link)    |
-| MSSSIM | 873 | [msssim_873]() |
-| MSSSIM | 1664  | [msssim_1664]()  |
-| MSSSIM | 3184  | [msssim_3184]()     |
-| MSSSIM | 6050 | [msssim_6050]() |
+| MSSSIM | 873 | [msssim_873](https://drive.google.com/file/d/1NO3u0TuZPePoX_z4Ky19D1REdvPOYEJ9/view?usp=drive_link) |
+| MSSSIM | 1664  | [msssim_1664](https://drive.google.com/file/d/1Gb6ipuaqBjtkiQXqoXIeatPyLhnzwRmC/view?usp=drive_link)  |
+| MSSSIM | 3184  | [msssim_3184](https://drive.google.com/file/d/15bqqEZNgni0kRjgPKGAOMqOZVHMoeFZ-/view?usp=drive_link)     |
+| MSSSIM | 6050 | [msssim_6050](https://drive.google.com/file/d/1aqIeJ978qdAplkixLgGJewLm3-3pexIQ/view?usp=drive_link) |
 
 
-Further trained models shall be uploaded soon!!!!
+All trained model weightes updated!!!
+Feel free to reach out at pmudgal@pdx.edu for any questions!!!
 
 Some evaluation dataset can be downloaded from 
 [kodak dataset](http://r0k.us/graphics/kodak/), [CLIC](http://challenge.compression.cc/tasks/)
