@@ -76,12 +76,12 @@ We use the training dataset processed in the [repo](https://github.com/liujiahen
 Training setting is detailed in the paper. You can also use your own data for training. 
 
 ```bash
-python examples/train.py -exp $exp_name -m cwam -d $train_data_dir --epochs $epoch_num -lr $lr --batch-size $batch_size --cuda --gpu_id $gpu_id --lambda $lamvda --metrics $metric --save 
+python examples/train.py -exp $exp_name -m invcompress -d $train_data_dir --epochs $epoch_num -lr $lr --batch-size $batch_size --cuda --gpu_id $gpu_id --lambda $lamvda --metrics $metric --save 
 ```
 
 An example: to train model of quality 1 optimized with mse metric.
 ```bash
-python examples/train.py -exp exp_01_mse_q1 -m cwam -d ../data/flicker --epochs 600 -lr 1e-4 --batch-size 8 --cuda --gpu_id 0 --lambda 0.00475 --metrics mse --save 
+python examples/train.py -exp exp_01_mse_q1 -m invcompress -d ../data/flicker --epochs 600 -lr 1e-4 --batch-size 8 --cuda --gpu_id 0 --lambda 0.00475 --metrics mse --save 
 
 ```
 
